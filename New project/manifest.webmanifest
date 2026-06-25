@@ -1,0 +1,19 @@
+{
+  "name": "麻雀スコア帖",
+  "short_name": "スコア帖",
+  "description": "4人麻雀の順位点と累計ポイントを記録",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#092f2b",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
